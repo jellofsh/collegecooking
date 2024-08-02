@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+
+    background: #b7fdd7;
+    color: #462801;
+    font: normal 18px/1.5 "Poppins SemiBold", Poppins, Arial, sans-serif;
+    font-weight: 600;;
+}
+
+/* Headings */
+h1 {
+    background-color: #d8f5e5;
+}
+
+/* Recipe text */
+.recipe {
+    background-color: #d8f5e5;
+    border: 3px solid #462801;
+    border-radius: 6px;
+    padding: 10px;
+}
